@@ -1,0 +1,14 @@
+* {
+    background: aliceblue;
+    font-family: Cabin;
+}
+
+.btn{
+    background: gainsboro;
+}
+
+.list-el{
+    display: flex;
+    bottom: 10px;
+    transform: scaleY(-1);
+}
